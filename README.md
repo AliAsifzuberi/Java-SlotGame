@@ -1,1 +1,2 @@
 # Java-SlotGame
+This code simulates a slot game where the slot machine has 3 reels and 8 symbols, represented by an array of strings. A random symbol is generated for each reel using the java.util.Random class, which is used to generate a random number between 0 and 7. The results are displayed on the console, and the program checks if the player has won a jackpot, a prize or nothing.Next step is to add a GUI
